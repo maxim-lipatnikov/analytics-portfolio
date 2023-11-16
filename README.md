@@ -19,3 +19,9 @@ This GitHub portfolio serves as a comprehensive showcase of my capabilities, enc
   - [Task Tracker Development on ReactJS](https://github.com/maxim-lipatnikov/task-tracker-reactjs)
   - [Data Warehouse and ETL Processes Development](https://github.com/maxim-lipatnikov/youtube-etl)
   - [Travel Agency Database Development](https://github.com/maxim-lipatnikov/travel-agency-database-development)
+- **Certificates**
+  - [Basics of Statistics Part 1](https://drive.google.com/file/d/1bnp4mU4NdE-HFrLlAYvqqQqtKrgxq2nh/view?usp=drive_link)
+  - [Basics of Statistics Part 2](https://drive.google.com/file/d/1cSbMIunAmNtn7BoVoL7hoDmpjQRcg8Gf/view?usp=drive_link)
+  - [Statistics for Data Analysts](https://drive.google.com/file/d/1U_8Ej1lMKsjWgJGCszwl5IarFerm-yJg/view?usp=drive_link)
+  - [Probability Theory for Data Analysts](https://drive.google.com/file/d/1G_qtTjsA_svGO3AxGL6HjLL03QR7fF7N/view?usp=drive_link)
+  - [Interactive SQL Simulator](https://drive.google.com/file/d/1raxsWwIZt_CnUqTm1vcMXbNIyNaWT1b5/view?usp=drive_link)
