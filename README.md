@@ -4,7 +4,7 @@
 
 Hi, I'm Max! I am a seasoned Data Analyst with a proven track record in the FinTech sector, specializing in the management and analysis of intricate banking data for a user base exceeding 30 million. Having recently relocated to Israel, I'm currently looking for opportunities to utilize my existing skills and develop new ones.
 
-My academic background includes a bachelor's degree in Business Informatics from the National Research University Higher School of Economics, which is one of the top universities in Russia. Studying on the "Business-Informatics" program equipped me with a well-rounded skill set in product development, management, data management, and programming.
+My academic background includes a bachelor's degree in Business Informatics from the National Research University Higher School of Economics, which is one of the top universities in Russia. Studying on the "Business Informatics" program equipped me with a well-rounded skill set in product development, management, data management, and programming.
 
 This GitHub portfolio serves as a comprehensive showcase of my capabilities, encompassing a diverse range of skills, relevant courses, university projects, and tangible examples of my contributions to real-world projects. It reflects my commitment to a data-driven approach and my proficiency in utilizing tools such as SQL, Python, and Tableau.
 
