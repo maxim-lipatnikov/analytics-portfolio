@@ -26,3 +26,4 @@ This GitHub portfolio serves as a comprehensive showcase of my capabilities, enc
   - [Statistics for Data Analysts](https://drive.google.com/file/d/1U_8Ej1lMKsjWgJGCszwl5IarFerm-yJg/view?usp=drive_link)
   - [Probability Theory for Data Analysts](https://drive.google.com/file/d/1G_qtTjsA_svGO3AxGL6HjLL03QR7fF7N/view?usp=drive_link)
   - [Interactive SQL Simulator](https://drive.google.com/file/d/1raxsWwIZt_CnUqTm1vcMXbNIyNaWT1b5/view?usp=drive_link)
+  - [Design Line Boost (UX Design Bootcamp)](https://drive.google.com/file/d/1x3DtQU-2auoH1z57QHa_gDrumRQpOZlr/view?usp=drive_link)
