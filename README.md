@@ -16,6 +16,7 @@ This GitHub portfolio serves as a comprehensive showcase of my capabilities, enc
   - [Basics of Statistics Part 1](https://github.com/maxim-lipatnikov/basics-of-statistics-part-1)
   - [Basics of Statistics Part 2](https://github.com/maxim-lipatnikov/basics-of-statistics-part-2)
 - **University Projects**
+  - [Vending Machine on Python](https://github.com/maxim-lipatnikov/vending-machine-python)
   - [Task Tracker Development on ReactJS](https://github.com/maxim-lipatnikov/task-tracker-reactjs)
   - [Data Warehouse and ETL Processes Development](https://github.com/maxim-lipatnikov/youtube-etl)
   - [Travel Agency Database Development](https://github.com/maxim-lipatnikov/travel-agency-database-development)
