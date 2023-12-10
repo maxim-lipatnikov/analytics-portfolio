@@ -13,6 +13,7 @@ This GitHub portfolio serves as a comprehensive showcase of my capabilities, enc
 - **Real-World Projects**
   - [Data Visualization Projects](https://github.com/maxim-lipatnikov/data-visualization-projects)
 - **Courses**
+  - [A/B Testing Simulator](https://github.com/maxim-lipatnikov/ab-testing-simulator-karpov)
   - [Basics of Statistics Part 1](https://github.com/maxim-lipatnikov/basics-of-statistics-part-1)
   - [Basics of Statistics Part 2](https://github.com/maxim-lipatnikov/basics-of-statistics-part-2)
 - **University Projects**
@@ -22,6 +23,7 @@ This GitHub portfolio serves as a comprehensive showcase of my capabilities, enc
   - [Data Warehouse and ETL Processes Development](https://github.com/maxim-lipatnikov/youtube-etl)
   - [Travel Agency Database Development](https://github.com/maxim-lipatnikov/travel-agency-database-development)
 - **Certificates**
+  - [A/B Testing Simulator](https://drive.google.com/file/d/14DJB8c3rB2EbfNNLSmJhWV8IGqbRr4sx/view?usp=sharing)
   - [Basics of Statistics Part 1](https://drive.google.com/file/d/1bnp4mU4NdE-HFrLlAYvqqQqtKrgxq2nh/view?usp=drive_link)
   - [Basics of Statistics Part 2](https://drive.google.com/file/d/1cSbMIunAmNtn7BoVoL7hoDmpjQRcg8Gf/view?usp=drive_link)
   - [Statistics for Data Analysts](https://drive.google.com/file/d/1U_8Ej1lMKsjWgJGCszwl5IarFerm-yJg/view?usp=drive_link)
