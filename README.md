@@ -10,6 +10,8 @@ This GitHub portfolio serves as a comprehensive showcase of my capabilities, enc
 
 ## Table of Contents
 - [About Me](#about-me)
+- **Personal Projects**
+  - [eCommerce Electronics Store - A/B Testing](https://github.com/maxim-lipatnikov/ecommerce-abtesting)
 - **Real-World Projects**
   - [Data Visualization Projects](https://github.com/maxim-lipatnikov/data-visualization-projects)
 - **Courses**
