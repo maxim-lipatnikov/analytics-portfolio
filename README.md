@@ -26,9 +26,10 @@ This GitHub portfolio serves as a comprehensive showcase of my capabilities, enc
   - [Data Warehouse and ETL Processes Development](https://github.com/maxim-lipatnikov/youtube-etl)
   - [Travel Agency Database Development](https://github.com/maxim-lipatnikov/travel-agency-database-development)
 - **Certificates**
-  - [A/B Testing Simulator](https://drive.google.com/file/d/14DJB8c3rB2EbfNNLSmJhWV8IGqbRr4sx/view?usp=sharing)
+  - [A/B Testing Simulator](https://drive.google.com/file/d/1E-kwexyazY-bl1qTFrCBBsN0Gh3mZK47/view?usp=drive_link)
   - [Basics of Statistics Part 1](https://drive.google.com/file/d/1bnp4mU4NdE-HFrLlAYvqqQqtKrgxq2nh/view?usp=drive_link)
   - [Basics of Statistics Part 2](https://drive.google.com/file/d/1cSbMIunAmNtn7BoVoL7hoDmpjQRcg8Gf/view?usp=drive_link)
+  - [Mathematics for Data Science](https://drive.google.com/file/d/196RHUtV6u-7O7uhw0xopC3EZ7G2fbNon/view?usp=drive_link)
   - [Statistics for Data Analysts](https://drive.google.com/file/d/1U_8Ej1lMKsjWgJGCszwl5IarFerm-yJg/view?usp=drive_link)
   - [Probability Theory for Data Analysts](https://drive.google.com/file/d/1G_qtTjsA_svGO3AxGL6HjLL03QR7fF7N/view?usp=drive_link)
   - [Interactive SQL Simulator](https://drive.google.com/file/d/1raxsWwIZt_CnUqTm1vcMXbNIyNaWT1b5/view?usp=drive_link)
